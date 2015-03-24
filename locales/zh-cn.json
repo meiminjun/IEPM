@@ -1,0 +1,140 @@
+{
+    "months" : {
+        "1"  : "1月",
+        "2"  : "2月",
+        "3"  : "3月",
+        "4"  : "4月",
+        "5"  : "5月",
+        "6"  : "6月",
+        "7"  : "7月",
+        "8"  : "8月",
+        "9"  : "9月",
+        "10" : "10月",
+        "11" : "11月",
+        "12" : "12月"
+    },
+    "settingview" : {
+    	"title" : "设置",
+    	"fieldset" : {
+	    	"title" : "语言",
+	    	"instructions" : "设置语言"
+    	}
+    },
+    "pullRefresh" : {
+    	"loadingText" : "加载中...",
+    	"lastUpdatedText" : "最后更新时间",
+    	"pullRefreshText" : "下拉刷新...",
+    	"releaseRefreshText" : "松开即刷新..."
+    },
+    "listPaging" : {
+    	"loadMoreText" : "加载更多...",
+		"noMoreRecordsText" : "暂无更多记录"
+    },
+    "main" : {
+    	"registerBtnText" : "注册项目",
+    	"settingsBtnText" : "设置"
+    },
+    "projectDetail" : {
+    	"basicInfoBtnText" : "基本信息",
+    	"monthHisBtnText" : "历史月报",
+    	"annexBtnText" : "附件"
+    },
+    "projectBaseInfo" : {
+    	"lblProjectName" : "项目名称",
+    	"lblCountry" : "国家",
+    	"lblBudget" : "项目预算(SG$)",
+    	"lblBeginTime" : "开始时间",
+    	"lblEndTime" : "上线时间",
+    	"lblMembers" : "团队成员",
+    	"lblProjectManager" : "项目经理",
+    	"lblBusinessLeader" : "业务负责人",
+    	"lblProgress" : "项目进度"
+    },
+    "projectMembers" : {
+    	"title" : "项目成员"
+    },
+    "planActionSheet" : {
+    	"title" : "项目计划定义",
+    	"doneButtonText" : "确认",
+    	"cancelButtonText" : "取消"
+    },
+    "projectPhaseList" : {
+    	"changeBtnText" : "操作"
+    },
+    "fillForm" : {
+    	"title" : "月报填报",
+    	"commitBtnText" : "提交",
+    	"totalStateSF" : "整体状态",
+    	"totalStatePlaceHolder" : "请选择...",
+    	"taskThisMonth" : "本月完成任务",
+    	"planforNextMonth" : "下月计划",
+    	"mainRisk" : "主要风险",
+    	"mainRiskSF" : "风险程度",
+    	"mainRiskPlaceHolder" : "请选择...",
+    	"doneButtonText" : "确定",
+    	"cancelButtonText" : "取消",
+    	"confirmTime" : "月报月份",
+    	"confirmPlaceholder" : "请选择...",
+    	"dateFormat" : "Y-m",
+    	"milestone" : "里程碑",
+    	"actualCost" : "实际花费"
+    },
+    "annexList" : {
+    	"title" : "附件"
+    },
+    "projectPlanCommit" : {
+    	"commitBtnText" : "提交",
+    	"itemText" : "任务标准"
+    },
+    "projectHis" : {
+   		"title" : "历史",
+    	"editBtn" : "编辑",
+    	"summaryVal" : "简介",
+    	"historyVal" : "历史",
+    	"lastReply" : "最后回复"
+    },
+    "registerProject" : {
+    	"title" : "注册新项目",
+    	"regSubmitBtnText" : "提交",
+    	"baseInfoLabel" : '<div class=\"registerHeaderCls\">基本信息</div>',
+    	"teamMeberLabel" : '<div class=\"registerHeaderCls\">团队信息</div>',
+    },
+    "basicInfomation" : {
+    	"proName" : "项目名称",
+    	"proCompany" : "所属公司",
+    	"proCompanyPlaceHolder" : "",
+    	"proTypeList" : "项目类型",
+    	"proTypeListPlaceHolder" : "",
+    	"proScale" : "项目规模",
+    	"proScaleListPlaceHolder" : "",
+    	"proBudget" : "项目预算(SG$)",
+    	"proStartTime" : "开始时间",
+    	"begindatePlaceholder" : "请选择...",
+    	"enddatePlaceholder" : "请选择...",
+    	"dateFormat" : "Y-m-d",
+    	"proEndTime" : "上线时间"
+    },
+    "teamInfomation" : {
+    	"proManager" : "项目经理",
+    	"businessOwner" : "业务负责人",
+    	"teamMembers" : "团队成员"
+    },
+    "monthHisInfo" : {
+    	"totalStateSF" : "整体状态",
+    	"totalStatePlaceHolder" : "请选择...",
+    	"taskThisMonth" : "本月完成任务",
+    	"planforNextMonth" : "下月计划",
+    	"mainRisk" : "主要风险",
+    	"mainRiskSF" : "风险程度",
+    	"mainRiskPlaceHolder" : "请选择...",
+    	"confirmTime" : "月报月份",
+    	"confirmPlaceholder" : "请选择...",
+    	"dateFormat" : "Y-m",
+    	"milestone" : "里程碑",
+    	"actualCost" : "实际花费"
+    },
+    "teamList" : {
+    	"title" : "成员列表",
+    	"confirmBtnText" : "确定"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "months" : {
+        "1"  : "January",
+        "2"  : "February",
+        "3"  : "March",
+        "4"  : "April",
+        "5"  : "May",
+        "6"  : "June",
+        "7"  : "July",
+        "8"  : "August",
+        "9"  : "September",
+        "10" : "October",
+        "11" : "November",
+        "12" : "December"
+    },
+    "settingview" : {
+    	"title" : "Settings",
+    	"fieldset" : {
+	    	"title" : "Language",
+	    	"instructions" : "Setting Language"
+    	}
+    },
+    "pullRefresh" : {
+    	"loadingText" : "Loading...",
+    	"lastUpdatedText" : "Last update time",
+    	"pullRefreshText" : "Pull down to refresh...",
+    	"releaseRefreshText" : "Release to refresh..."
+    },
+    "listPaging" : {
+    	"loadMoreText" : "Load More...",
+		"noMoreRecordsText" : "No More Records"
+    },
+    "main" : {
+    	"registerBtnText" : "Register",
+    	"settingsBtnText" : "Settings"
+    },
+    "projectDetail" : {
+    	"basicInfoBtnText" : "BasicInfo",
+    	"monthHisBtnText" : "History Report",
+    	"annexBtnText" : "Attach"
+    },
+    "projectBaseInfo" : {
+    	"lblProjectName" : "Project Name",
+    	"lblCountry" : "Country",
+    	"lblBudget" : "Project Budget(SG$)",
+    	"lblBeginTime" : "Start Time",
+    	"lblEndTime" : "Online Time",
+    	"lblMembers" : "Team Members",
+    	"lblProjectManager" : "Project Manager",
+    	"lblBusinessLeader" : "Business Owner",
+    	"lblProgress" : "Project Progress"
+    },
+    "projectMembers" : {
+    	"title" : "Project Members"
+    },
+    "planActionSheet" : {
+    	"title" : "Project plan",
+    	"doneButtonText" : "Confirm",
+    	"cancelButtonText" : "Cancel"
+    },
+    "projectPhaseList" : {
+    	"changeBtnText" : "Action"
+    },
+    "fillForm" : {
+    	"title" : "Mth Update",
+    	"commitBtnText" : "Submit",
+    	"totalStateSF" : "Total State",
+    	"totalStatePlaceHolder" : "Please select...",
+    	"taskThisMonth" : "The task of this month",
+    	"planforNextMonth" : "Next month plan",
+    	"mainRisk" : "Main Risk",
+    	"mainRiskSF" : "Degree of Risk",
+    	"mainRiskPlaceHolder" : "Please select...",
+    	"doneButtonText" : "Confirm",
+    	"cancelButtonText" : "Cancel",
+    	"confirmTime" : "Monthly report",
+    	"confirmPlaceholder" : "Please select...",
+    	"dateFormat" : "Y-m",
+    	"milestone" : "Milestone",
+    	"actualCost" : "Actual Cost"
+    },
+    "annexList" : {
+    	"title" : "Attachment"
+    },
+    "projectPlanCommit" : {
+    	"commitBtnText" : "Submit",
+    	"itemText" : "Standard Task"
+    },
+    "projectHis" : {
+   		"title" : "History",
+    	"editBtn" : "Edit",
+    	"summaryVal" : "Description",
+    	"historyVal" : "History",
+    	"lastReply" : "LastReply"
+    },
+    "registerProject" : {
+    	"title" : "Register new project",
+    	"regSubmitBtnText" : "Submit",
+    	"baseInfoLabel" : '<div class=\"registerHeaderCls\">Base Info</div>',
+    	"teamMeberLabel" : '<div class=\"registerHeaderCls\">TeamMember Info</div>',
+    },
+    "basicInfomation" : {
+    	"proName" : "Project Name",
+    	"proCompany" : "Subordinate Companies",
+    	"proCompanyPlaceHolder" : "",
+    	"proTypeList" : "Project Types",
+    	"proTypeListPlaceHolder" : "",
+    	"proScale" : "Project Scale",
+    	"proScaleListPlaceHolder" : "",
+    	"proBudget" : "Project Budget(SG$)",
+    	"proStartTime" : "Start Time",
+    	"begindatePlaceholder" : "Please select...",
+    	"enddatePlaceholder" : "Please select...",
+    	"dateFormat" : "Y-m-d",
+    	"proEndTime" : "Online Time"
+    },
+    "teamInfomation" : {
+    	"proManager" : "Project Manager",
+    	"businessOwner" : "Business Owner",
+    	"teamMembers" : "Team Member"
+    },
+    "monthHisInfo" : {
+    	"totalStateSF" : "Total State",
+    	"totalStatePlaceHolder" : "Please select...",
+    	"taskThisMonth" : "The task of this month",
+    	"planforNextMonth" : "Next month plan",
+    	"mainRisk" : "Main Risk",
+    	"mainRiskSF" : "Degree of Risk",
+    	"mainRiskPlaceHolder" : "Please select...",
+    	"confirmTime" : "Monthly report",
+    	"confirmPlaceholder" : "Please select...",
+    	"dateFormat" : "Y-m",
+    	"milestone" : "Milestone",
+    	"actualCost" : "Actual Cost"
+    },
+    "teamList" : {
+    	"title" : "Member List",
+    	"confirmBtnText" : "Confirm"
+    }
+}
